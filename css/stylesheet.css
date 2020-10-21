@@ -1,0 +1,55 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color:#7e8a97;
+}
+
+nav {
+    background-color:#7e8a97;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    margin-left: -8px;
+}
+
+body{
+    margin-top: 200px;
+    background-color:#cbaf87;
+}
+
+article {
+    background-color:#e7dec8;
+}
+
+.h1-index {
+    text-align: center;
+}
+
+.list_break {
+    color: teal;
+}
+
+a:link {
+    color:rgb(31, 183, 221);
+}
+
+a:visited {
+    color: silver;
+}
+
+.logo {
+    display: inline-block;
+    float: left;
+    width: 200px;
+}
+
+.para1 {
+    margin-left: 10px;
+}
+
+.para2 {
+    display:inline-block;
+}
