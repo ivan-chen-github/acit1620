@@ -12,6 +12,7 @@ nav {
     position: fixed;
     width: 100%;
     top: 0px;
+    display: inline-block;
     margin-left: -8px;
 }
 
