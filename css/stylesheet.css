@@ -1,9 +1,6 @@
 * {
     font-family: 'Roboto', sans-serif;
-}
-
-header{
-    background-color:#7e8a97;
+    color: #30475e;
 }
 
 nav {
@@ -29,10 +26,6 @@ article {
     text-align: center;
 }
 
-.list_break {
-    color: teal;
-}
-
 a:link {
     color:rgb(31, 183, 221);
 }
@@ -42,9 +35,12 @@ a:visited {
 }
 
 .logo {
-    display: inline-block;
     float: left;
     width: 200px;
+}
+
+.list_break {
+    color: teal;
 }
 
 .para1 {
@@ -52,5 +48,6 @@ a:visited {
 }
 
 .para2 {
+    margin-top: -3px;
     display:inline-block;
 }
